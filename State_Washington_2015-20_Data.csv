@@ -1,0 +1,239 @@
+AREA,SUB AREA,AGE GROUP,SEASON,WEEK,PERCENT P&I,NUM INFLUENZA DEATHS,NUM PNEUMONIA DEATHS,TOTAL DEATHS,PERCENT COMPLETE
+State,Washington,All,2015-16,40,6.1,0,61,"1,000",97%
+State,Washington,All,2015-16,41,7.3,1,69,964,93.5%
+State,Washington,All,2015-16,42,6.8,0,70,"1,026",99.5%
+State,Washington,All,2015-16,43,6.6,1,68,"1,052",> 100%
+State,Washington,All,2015-16,44,7.7,1,77,"1,016",98.5%
+State,Washington,All,2015-16,45,7.2,0,76,"1,058",> 100%
+State,Washington,All,2015-16,46,5.8,1,58,"1,024",99.3%
+State,Washington,All,2015-16,47,4.9,0,52,"1,066",> 100%
+State,Washington,All,2015-16,48,7.8,0,87,"1,115",> 100%
+State,Washington,All,2015-16,49,6.5,0,74,"1,139",> 100%
+State,Washington,All,2015-16,50,6.4,1,67,"1,063",> 100%
+State,Washington,All,2015-16,51,7.9,0,86,"1,084",> 100%
+State,Washington,All,2015-16,52,7.4,0,80,"1,081",> 100%
+State,Washington,All,2015-16,1,7.2,0,82,"1,144",> 100%
+State,Washington,All,2015-16,2,6.8,3,72,"1,100",> 100%
+State,Washington,All,2015-16,3,6.4,3,71,"1,156",> 100%
+State,Washington,All,2015-16,4,7.1,3,75,"1,099",> 100%
+State,Washington,All,2015-16,5,5.5,0,60,"1,093",> 100%
+State,Washington,All,2015-16,6,6.7,5,68,"1,088",> 100%
+State,Washington,All,2015-16,7,6.1,2,67,"1,127",> 100%
+State,Washington,All,2015-16,8,8.8,11,90,"1,147",> 100%
+State,Washington,All,2015-16,9,7.7,6,78,"1,096",> 100%
+State,Washington,All,2015-16,10,8.3,5,88,"1,126",> 100%
+State,Washington,All,2015-16,11,6.4,7,64,"1,117",> 100%
+State,Washington,All,2015-16,12,8.6,10,86,"1,118",> 100%
+State,Washington,All,2015-16,13,8.6,6,88,"1,090",> 100%
+State,Washington,All,2015-16,14,9.2,14,83,"1,049",> 100%
+State,Washington,All,2015-16,15,9.9,8,97,"1,065",> 100%
+State,Washington,All,2015-16,16,8.5,3,89,"1,083",> 100%
+State,Washington,All,2015-16,17,7.8,2,76,996,96.6%
+State,Washington,All,2015-16,18,6.8,0,74,"1,090",> 100%
+State,Washington,All,2015-16,19,6.1,0,62,"1,024",99.3%
+State,Washington,All,2015-16,20,6.2,0,65,"1,050",> 100%
+State,Washington,All,2015-16,21,6.8,0,68,994,96.4%
+State,Washington,All,2015-16,22,6.5,0,67,"1,031",100%
+State,Washington,All,2015-16,23,6.4,0,63,990,96%
+State,Washington,All,2015-16,24,4.8,0,47,972,94.2%
+State,Washington,All,2015-16,25,6.6,0,65,980,95%
+State,Washington,All,2015-16,26,5.9,0,60,"1,012",98.1%
+State,Washington,All,2015-16,27,5.3,0,52,986,95.6%
+State,Washington,All,2015-16,28,6.1,2,57,960,93.1%
+State,Washington,All,2015-16,29,5.3,0,52,972,94.2%
+State,Washington,All,2015-16,30,6.1,0,65,"1,066",> 100%
+State,Washington,All,2015-16,31,5.5,0,52,944,91.5%
+State,Washington,All,2015-16,32,6.2,0,59,952,92.3%
+State,Washington,All,2015-16,33,6,0,59,977,94.7%
+State,Washington,All,2015-16,34,6.3,1,60,965,93.6%
+State,Washington,All,2015-16,35,5.2,0,52,999,96.9%
+State,Washington,All,2015-16,36,5.5,0,54,987,95.7%
+State,Washington,All,2015-16,37,5.8,0,59,"1,013",98.2%
+State,Washington,All,2015-16,38,5,0,50,996,96.6%
+State,Washington,All,2015-16,39,4.8,0,49,"1,017",98.6%
+State,Washington,All,2016-17,40,5.8,0,59,"1,009",97.8%
+State,Washington,All,2016-17,41,5.7,1,59,"1,054",> 100%
+State,Washington,All,2016-17,42,5.8,1,60,"1,059",> 100%
+State,Washington,All,2016-17,43,5.4,1,52,985,95.5%
+State,Washington,All,2016-17,44,5.7,0,59,"1,031",100%
+State,Washington,All,2016-17,45,5.9,0,58,984,95.4%
+State,Washington,All,2016-17,46,6,0,64,"1,064",> 100%
+State,Washington,All,2016-17,47,6.5,2,63,"1,001",97.1%
+State,Washington,All,2016-17,48,5.6,2,54,997,96.7%
+State,Washington,All,2016-17,49,7.2,0,79,"1,095",> 100%
+State,Washington,All,2016-17,50,7.5,2,81,"1,108",> 100%
+State,Washington,All,2016-17,51,7.1,7,77,"1,180",> 100%
+State,Washington,All,2016-17,52,10.1,20,102,"1,204",> 100%
+State,Washington,All,2016-17,1,9.9,44,86,"1,311",> 100%
+State,Washington,All,2016-17,2,11.5,52,107,"1,381",> 100%
+State,Washington,All,2016-17,3,12,48,120,"1,400",> 100%
+State,Washington,All,2016-17,4,12.4,48,117,"1,333",> 100%
+State,Washington,All,2016-17,5,13.3,37,128,"1,239",> 100%
+State,Washington,All,2016-17,6,10.4,26,102,"1,231",> 100%
+State,Washington,All,2016-17,7,10,24,101,"1,249",> 100%
+State,Washington,All,2016-17,8,9,21,84,"1,173",> 100%
+State,Washington,All,2016-17,9,7.7,8,82,"1,163",> 100%
+State,Washington,All,2016-17,10,9,11,90,"1,125",> 100%
+State,Washington,All,2016-17,11,6.9,3,74,"1,110",> 100%
+State,Washington,All,2016-17,12,8.7,3,97,"1,145",> 100%
+State,Washington,All,2016-17,13,5.6,1,60,"1,087",> 100%
+State,Washington,All,2016-17,14,5.9,1,64,"1,104",> 100%
+State,Washington,All,2016-17,15,7.3,4,74,"1,068",> 100%
+State,Washington,All,2016-17,16,7.3,4,72,"1,035",> 100%
+State,Washington,All,2016-17,17,7.4,1,73,"1,000",97%
+State,Washington,All,2016-17,18,6,1,65,"1,096",> 100%
+State,Washington,All,2016-17,19,5.8,0,59,"1,009",97.8%
+State,Washington,All,2016-17,20,6.4,1,68,"1,074",> 100%
+State,Washington,All,2016-17,21,7.2,1,69,975,94.5%
+State,Washington,All,2016-17,22,5.8,0,61,"1,049",> 100%
+State,Washington,All,2016-17,23,6.7,0,68,"1,020",98.9%
+State,Washington,All,2016-17,24,4.2,1,38,933,90.5%
+State,Washington,All,2016-17,25,5.1,1,48,961,93.2%
+State,Washington,All,2016-17,26,5.3,1,54,"1,032",> 100%
+State,Washington,All,2016-17,27,4.7,0,49,"1,035",> 100%
+State,Washington,All,2016-17,28,6.5,0,64,989,95.9%
+State,Washington,All,2016-17,29,4.4,0,44,"1,011",98%
+State,Washington,All,2016-17,30,7.1,0,71,"1,001",97.1%
+State,Washington,All,2016-17,31,4.6,0,47,"1,032",> 100%
+State,Washington,All,2016-17,32,4.5,0,47,"1,046",> 100%
+State,Washington,All,2016-17,33,4.1,0,41,"1,008",97.7%
+State,Washington,All,2016-17,34,5.9,0,61,"1,038",> 100%
+State,Washington,All,2016-17,35,4.3,0,44,"1,023",99.2%
+State,Washington,All,2016-17,36,4.8,0,48,996,96.6%
+State,Washington,All,2016-17,37,4.6,1,45,"1,008",97.7%
+State,Washington,All,2016-17,38,6.1,0,63,"1,032",> 100%
+State,Washington,All,2016-17,39,5.2,1,55,"1,070",> 100%
+State,Washington,All,2017-18,40,4.9,0,51,"1,040",> 100%
+State,Washington,All,2017-18,41,6.2,0,64,"1,031",100%
+State,Washington,All,2017-18,42,5.2,2,51,"1,013",98.2%
+State,Washington,All,2017-18,43,5.5,0,60,"1,094",> 100%
+State,Washington,All,2017-18,44,6.6,3,69,"1,088",> 100%
+State,Washington,All,2017-18,45,5.7,1,62,"1,106",> 100%
+State,Washington,All,2017-18,46,6.2,0,65,"1,054",> 100%
+State,Washington,All,2017-18,47,4.5,2,48,"1,106",> 100%
+State,Washington,All,2017-18,48,5.7,1,64,"1,136",> 100%
+State,Washington,All,2017-18,49,6.1,4,59,"1,034",> 100%
+State,Washington,All,2017-18,50,6.1,2,68,"1,149",> 100%
+State,Washington,All,2017-18,51,6.5,9,66,"1,149",> 100%
+State,Washington,All,2017-18,52,8.6,18,88,"1,226",> 100%
+State,Washington,All,2017-18,1,8.1,28,71,"1,222",> 100%
+State,Washington,All,2017-18,2,9.3,42,79,"1,307",> 100%
+State,Washington,All,2017-18,3,11.1,37,96,"1,198",> 100%
+State,Washington,All,2017-18,4,10.5,30,97,"1,210",> 100%
+State,Washington,All,2017-18,5,9.6,25,86,"1,158",> 100%
+State,Washington,All,2017-18,6,9.6,27,84,"1,152",> 100%
+State,Washington,All,2017-18,7,8.7,24,74,"1,121",> 100%
+State,Washington,All,2017-18,8,8.7,20,78,"1,122",> 100%
+State,Washington,All,2017-18,9,7.4,25,66,"1,227",> 100%
+State,Washington,All,2017-18,10,8.4,17,78,"1,136",> 100%
+State,Washington,All,2017-18,11,7.7,14,76,"1,164",> 100%
+State,Washington,All,2017-18,12,7.7,19,73,"1,191",> 100%
+State,Washington,All,2017-18,13,7.3,12,69,"1,113",> 100%
+State,Washington,All,2017-18,14,8.9,10,93,"1,163",> 100%
+State,Washington,All,2017-18,15,6.5,6,70,"1,161",> 100%
+State,Washington,All,2017-18,16,6.4,8,61,"1,070",> 100%
+State,Washington,All,2017-18,17,5.8,4,58,"1,061",> 100%
+State,Washington,All,2017-18,18,5.8,6,55,"1,049",> 100%
+State,Washington,All,2017-18,19,5.6,4,56,"1,065",> 100%
+State,Washington,All,2017-18,20,6.4,2,66,"1,070",> 100%
+State,Washington,All,2017-18,21,5.3,0,51,968,93.9%
+State,Washington,All,2017-18,22,4.7,2,46,"1,027",99.6%
+State,Washington,All,2017-18,23,5.2,2,53,"1,058",> 100%
+State,Washington,All,2017-18,24,5.5,0,58,"1,049",> 100%
+State,Washington,All,2017-18,25,5.1,1,54,"1,081",> 100%
+State,Washington,All,2017-18,26,4.6,1,46,"1,017",98.6%
+State,Washington,All,2017-18,27,4.8,0,55,"1,144",> 100%
+State,Washington,All,2017-18,28,5.1,0,57,"1,107",> 100%
+State,Washington,All,2017-18,29,4.4,1,43,"1,011",98%
+State,Washington,All,2017-18,30,4.5,0,45,995,96.5%
+State,Washington,All,2017-18,31,3.5,0,35,986,95.6%
+State,Washington,All,2017-18,32,4.1,0,42,"1,026",99.5%
+State,Washington,All,2017-18,33,4.7,0,49,"1,049",> 100%
+State,Washington,All,2017-18,34,4.9,0,47,960,93.1%
+State,Washington,All,2017-18,35,4.7,0,48,"1,026",99.5%
+State,Washington,All,2017-18,36,5,0,54,"1,081",> 100%
+State,Washington,All,2017-18,37,4,0,40,"1,006",97.5%
+State,Washington,All,2017-18,38,5,0,51,"1,011",98%
+State,Washington,All,2017-18,39,4.6,0,43,939,91%
+State,Washington,All,2018-19,40,5.7,0,59,"1,035",> 100%
+State,Washington,All,2018-19,41,6,2,65,"1,122",> 100%
+State,Washington,All,2018-19,42,5.1,0,56,"1,105",> 100%
+State,Washington,All,2018-19,43,6.5,2,68,"1,077",> 100%
+State,Washington,All,2018-19,44,5.9,1,64,"1,102",> 100%
+State,Washington,All,2018-19,45,5.9,0,64,"1,076",> 100%
+State,Washington,All,2018-19,46,6.6,2,73,"1,133",> 100%
+State,Washington,All,2018-19,47,4.2,0,45,"1,067",> 100%
+State,Washington,All,2018-19,48,5.1,0,55,"1,078",> 100%
+State,Washington,All,2018-19,49,5.8,1,62,"1,087",> 100%
+State,Washington,All,2018-19,50,6.4,0,73,"1,141",> 100%
+State,Washington,All,2018-19,51,5.6,0,62,"1,106",> 100%
+State,Washington,All,2018-19,52,6.1,1,67,"1,123",> 100%
+State,Washington,All,2018-19,1,6.4,7,70,"1,211",> 100%
+State,Washington,All,2018-19,2,6.4,6,74,"1,242",> 100%
+State,Washington,All,2018-19,3,6.9,5,76,"1,166",> 100%
+State,Washington,All,2018-19,4,6,12,55,"1,121",> 100%
+State,Washington,All,2018-19,5,6.6,14,61,"1,143",> 100%
+State,Washington,All,2018-19,6,6.6,14,65,"1,194",> 100%
+State,Washington,All,2018-19,7,8.6,10,99,"1,272",> 100%
+State,Washington,All,2018-19,8,7.7,14,81,"1,231",> 100%
+State,Washington,All,2018-19,9,8.8,28,74,"1,157",> 100%
+State,Washington,All,2018-19,10,8.2,21,78,"1,205",> 100%
+State,Washington,All,2018-19,11,8.3,24,77,"1,223",> 100%
+State,Washington,All,2018-19,12,9.7,25,95,"1,241",> 100%
+State,Washington,All,2018-19,13,9.4,27,81,"1,149",> 100%
+State,Washington,All,2018-19,14,8.3,20,79,"1,193",> 100%
+State,Washington,All,2018-19,15,7.9,17,73,"1,141",> 100%
+State,Washington,All,2018-19,16,8.3,19,76,"1,148",> 100%
+State,Washington,All,2018-19,17,6.6,8,60,"1,026",99.5%
+State,Washington,All,2018-19,18,6.5,1,72,"1,128",> 100%
+State,Washington,All,2018-19,19,6.2,0,72,"1,164",> 100%
+State,Washington,All,2018-19,20,4.7,0,53,"1,133",> 100%
+State,Washington,All,2018-19,21,5.5,1,58,"1,080",> 100%
+State,Washington,All,2018-19,22,5.4,2,54,"1,042",> 100%
+State,Washington,All,2018-19,23,6.1,1,65,"1,081",> 100%
+State,Washington,All,2018-19,24,5.1,2,55,"1,114",> 100%
+State,Washington,All,2018-19,25,5.3,3,51,"1,026",99.5%
+State,Washington,All,2018-19,26,5.4,0,57,"1,058",> 100%
+State,Washington,All,2018-19,27,5.4,0,55,"1,016",98.5%
+State,Washington,All,2018-19,28,4.6,0,51,"1,115",> 100%
+State,Washington,All,2018-19,29,5.6,0,60,"1,077",> 100%
+State,Washington,All,2018-19,30,4.2,1,43,"1,038",> 100%
+State,Washington,All,2018-19,31,3.7,0,39,"1,049",> 100%
+State,Washington,All,2018-19,32,5.1,0,53,"1,049",> 100%
+State,Washington,All,2018-19,33,4.2,0,44,"1,052",> 100%
+State,Washington,All,2018-19,34,4.7,0,47,"1,003",97.2%
+State,Washington,All,2018-19,35,5.2,0,52,"1,009",97.8%
+State,Washington,All,2018-19,36,4.3,0,46,"1,078",> 100%
+State,Washington,All,2018-19,37,4.8,0,47,989,95.9%
+State,Washington,All,2018-19,38,4,0,41,"1,030",99.9%
+State,Washington,All,2018-19,39,5,1,51,"1,032",> 100%
+State,Washington,All,2019-20,40,4.5,1,47,"1,061",> 100%
+State,Washington,All,2019-20,41,5.6,0,62,"1,113",> 100%
+State,Washington,All,2019-20,42,5.4,0,59,"1,091",> 100%
+State,Washington,All,2019-20,43,5,1,57,"1,164",> 100%
+State,Washington,All,2019-20,44,6.1,0,69,"1,140",> 100%
+State,Washington,All,2019-20,45,5.7,1,63,"1,132",> 100%
+State,Washington,All,2019-20,46,5.3,2,57,"1,116",> 100%
+State,Washington,All,2019-20,47,5,2,52,"1,074",> 100%
+State,Washington,All,2019-20,48,5.4,3,56,"1,095",> 100%
+State,Washington,All,2019-20,49,4.8,2,54,"1,169",> 100%
+State,Washington,All,2019-20,50,6.9,3,76,"1,144",> 100%
+State,Washington,All,2019-20,51,5.6,8,58,"1,181",> 100%
+State,Washington,All,2019-20,52,5.6,7,54,"1,092",> 100%
+State,Washington,All,2019-20,1,7.7,11,79,"1,164",> 100%
+State,Washington,All,2019-20,2,7.2,12,78,"1,245",> 100%
+State,Washington,All,2019-20,3,6.6,14,66,"1,215",> 100%
+State,Washington,All,2019-20,4,6.9,6,76,"1,185",> 100%
+State,Washington,All,2019-20,5,6.6,8,71,"1,194",> 100%
+State,Washington,All,2019-20,6,6.4,6,70,"1,181",> 100%
+State,Washington,All,2019-20,7,8.2,11,86,"1,178",> 100%
+State,Washington,All,2019-20,8,6.4,6,65,"1,108",> 100%
+State,Washington,All,2019-20,9,7.5,11,74,"1,133",> 100%
+State,Washington,All,2019-20,10,9.5,16,97,"1,192",> 100%
+State,Washington,All,2019-20,11,8.4,10,87,"1,160",> 100%
+State,Washington,All,2019-20,12,11.5,16,122,"1,205",> 100%
+State,Washington,All,2019-20,13,13.5,9,162,"1,266",> 100%
+State,Washington,All,2019-20,14,12.4,9,148,"1,271",> 100%
+State,Washington,All,2019-20,15,10,1,120,"1,211",> 100%
+State,Washington,All,2019-20,16,8.6,2,64,766,74.3%
+State,Washington,All,2019-20,17,3.5,0,12,339,32.9%
